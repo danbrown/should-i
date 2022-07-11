@@ -1,0 +1,10 @@
+{
+  "name": "Wipsie Docs",
+  "short_name": "Wipsie Docs",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/"
+}
